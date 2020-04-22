@@ -9,6 +9,9 @@ French, english, german, spanish, and italian languages are built-in and user ca
 Project documentation is available inside the desktop. Glados project ships with firefox module, and more pre-compiled modules can be downloaded from Glados home project website to add or replace the previous ones.
 
 We hope you will support our project in participating or donating to our project.
+https://www.patreon.com/littlebigone
+
+https://opencollective.com/littlebigone
 Many thanks in advance !
 
 Enjoy science and have fun !
