@@ -6,7 +6,7 @@ User can install any software package from Ubuntu LTS repositories using apt com
 
 French, english, german, spanish, and italian languages are built-in and user can install any other languages and/or keyboard availables from simple and easy tools. Glados provides full Ubuntu Internationalization and localization.
 
-Project documentation is available inside the desktop. Glados project ships with firefox module, and more pre-compiled modules can be downloaded from Glados home project website to add or replace the previous ones.
+Project documentation is available inside the desktop. Glados project ships with xombrero browser, BBS tools, and highly improved desktop apps. More software can easily be installed. Pre-compiled modules can be downloaded from Glados home project website to add or replace the previous ones.
 
 We hope you will support our project in participating or donating to our project.
 https://www.patreon.com/littlebigone
